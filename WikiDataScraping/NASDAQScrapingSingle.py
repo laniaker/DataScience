@@ -36,7 +36,7 @@ def get_wikidata_qid(company_name):
             
     except requests.exceptions.HTTPError as e:
         # Spezifische Behandlung für 403-Fehler (zum Debuggen)
-        print(f"  ❌ HTTP-Fehler ({e.response.status_code}) bei QID-Suche für {company_name}. Ursache: Vermutlich fehlender/blockierter User-Agent.")
+        print(f"  HTTP-Fehler ({e.response.status_code}) bei QID-Suche für {company_name}. Ursache: Vermutlich fehlender/blockierter User-Agent.")
     except Exception as e:
         print(f"  Fehler bei der QID-Suche für {company_name}: {e}")
     return None
@@ -71,17 +71,25 @@ def fetch_wikidata_metadata_by_qid(qid, company_name):
         bindings = data['results']['bindings']
         
         if bindings:
-            result = bindings[0]
-            
-            # Datum und Jahr extrahieren
-            inception_date = result.get('inception', {}).get('value', '')
+            # Initialisiere die Metadaten mit Werten aus dem ersten Ergebnis
+            first_result = bindings[0]
+            inception_date = first_result.get('inception', {}).get('value', '')
             inception_year = inception_date.split('-')[0] if inception_date else 'N/A'
+            website = first_result.get('website', {}).get('value', 'N/A')
+
+            # Sammle ALLE Branchen aus allen zurückgegebenen Zeilen
+            # set() wird verwendet, um Duplikate zu vermeiden
+            all_industries = set()
+            for result in bindings:
+                industry = result.get('industryLabel', {}).get('value')
+                if industry:
+                    all_industries.add(industry)
             
             return {
                 'Wikidata_ID': qid,
-                'Industry': result.get('industryLabel', {}).get('value', 'N/A'),
+                'Industry': ', '.join(sorted(list(all_industries))) if all_industries else 'N/A',
                 'Founding_Year': inception_year,
-                'Website': result.get('website', {}).get('value', 'N/A')
+                'Website': website
             }
             
     except Exception as e:
@@ -122,8 +130,13 @@ def process_companies(companies_df):
 companies_df = pd.read_csv('/Users/lania/VSCode/DataScience/wikinasdaq_100_constituents.csv') 
 metadata_df = process_companies(companies_df)
 
-# Die ursprüngliche Liste mit den neuen Metadaten zusammenführen
-final_df = companies_df.merge(metadata_df, on=['Ticker', 'Company'], how='left')
+# --- KORREKTUR: Fehler beim Zusammenführen beheben ---
+# 1. Entferne die alten Metadaten-Spalten aus dem Original-DataFrame, um Namenskonflikte zu vermeiden.
+columns_to_drop = ['Website', 'Industry', 'Founding_Year', 'Wikidata_ID']
+companies_df_base = companies_df.drop(columns=columns_to_drop, errors='ignore')
+
+# 2. Führe die Basis-Liste (nur Ticker, Company) mit den neuen Metadaten zusammen.
+final_df = companies_df_base.merge(metadata_df, on=['Ticker', 'Company'], how='left')
 
 # Stelle sicher, dass die Spalten in einer sinnvollen Reihenfolge sind
 final_df = final_df[['Company', 'Ticker', 'Website', 'Industry', 'Founding_Year', 'Wikidata_ID']]

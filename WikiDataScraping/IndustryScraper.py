@@ -66,9 +66,18 @@ if __name__ == "__main__":
     print("[INFO] Starte den Scraper für Branchenbeschreibungen...")
     df = pd.read_csv(INPUT_CSV_FILE)
 
-    # Hole alle einzigartigen, nicht-leeren Branchennamen
-    unique_industries = df['Industry'].dropna().unique()
-    unique_industries = [ind for ind in unique_industries if ind.lower() != 'n/a']
+    # --- KORREKTUR: Verarbeite kommagetrennte Branchenlisten ---
+    # 1. Erstelle eine leere Menge, um alle einzigartigen Branchen zu speichern
+    all_industries = set()
+
+    # 2. Iteriere durch die 'Industry'-Spalte, spalte die Strings und füge sie zur Menge hinzu
+    for item in df['Industry'].dropna():
+        # Spalte den String am Komma und entferne Leerzeichen vor/nach jeder Branche
+        industries = [industry.strip() for industry in item.split(',')]
+        all_industries.update(industries)
+
+    # 3. Entferne 'N/A' und konvertiere die Menge in eine sortierte Liste für konsistente Reihenfolge
+    unique_industries = sorted([ind for ind in all_industries if ind.lower() != 'n/a'])
 
     industry_descriptions = {}
 
