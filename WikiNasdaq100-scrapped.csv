@@ -1,0 +1,103 @@
+Wikidata_ID,Industry,Founding_Year,Ticker,Company
+Q11463,artificial intelligence,1982,ADBE,Adobe Inc.
+Q128896,computer industry,1969,AMD,Advanced Micro Devices
+Q63327,tourism industry,2008,ABNB,Airbnb
+N/A,N/A,N/A,GOOGL,Alphabet Inc. (Class A)
+N/A,N/A,N/A,GOOG,Alphabet Inc. (Class C)
+Q3884,retail,1994,AMZN,Amazon
+Q464092,electricity generation,1906,AEP,American Electric Power
+Q470517,pharmaceutical industry,1980,AMGN,Amgen
+Q484930,N/A,1965,ADI,Analog Devices
+Q312,electronics,1976,AAPL,Apple Inc.
+Q621610,N/A,1967,AMAT,Applied Materials
+Q27150212,software industry,2012,APP,AppLovin
+Q296782,N/A,1990,ARM,Arm Holdings
+Q297879,semiconductor industry,1984,ASML,ASML Holding
+Q731938,pharmaceutical industry,1913,AZN,AstraZeneca
+Q757307,software industry,2002,TEAM,Atlassian
+Q628051,software development,1982,ADSK,Autodesk
+Q489080,human resource management,1949,ADP,Automatic Data Processing
+Q690604,weapons industry,1993,AXON,Axon Enterprise
+Q804353,petroleum industry,1987,BKR,Baker Hughes
+Q864338,pharmaceutical industry,1978,BIIB,Biogen
+Q18674747,travel industry,1997,BKNG,Booking Holdings
+Q555925,semiconductor industry,1991,AVGO,Broadcom
+Q608776,software industry,1988,CDNS,Cadence Design Systems
+Q1023155,business-to-business,1984,CDW,CDW Corporation
+Q16910938,N/A,N/A,CHTR,Charter Communications
+Q36951779,N/A,N/A,CTAS,Cintas
+Q173395,telecommunications,1984,CSCO,Cisco
+Q20811256,beverage industry,2015,CCEP,Coca-Cola Europacific Partners
+Q1107035,IT service management,1994,CTSH,Cognizant
+Q1113804,telecommunications,1963,CMCSA,Comcast
+Q259195,N/A,1999,CEG,Constellation Energy
+Q16951448,automotive industry,1982,CPRT,Copart
+Q16988748,information technology,1987,CSGP,CoStar Group
+Q715583,retail,1983,COST,Costco
+Q24890758,computer security,2011,CRWD,CrowdStrike
+Q1024454,rail transport,1980,CSX,CSX Corporation
+Q16248637,IT performance management,2010,DDOG,Datadog
+Q15109865,N/A,1999,DXCM,DexCom
+Q65091423,petroleum industry,2007,FANG,Diamondback Energy
+Q20714323,logistics,2012,DASH,DoorDash
+Q173941,video game industry,1982,EA,Electronic Arts
+Q1383669,energy industry,2000,EXC,Exelon
+Q3067119,N/A,1967,FAST,Fastenal
+Q2749364,computer security,2000,FTNT,Fortinet
+Q1152374,electronics,2004,GEHC,GE HealthCare
+Q663596,pharmaceutical industry,1987,GILD,Gilead Sciences
+Q691592,semiconductor industry,2008,GFS,GlobalFoundries
+Q37147733,N/A,N/A,HON,Honeywell
+Q1758392,health care,1983,IDXX,Idexx Laboratories
+Q248,electrical industry,1968,INTC,Intel
+Q1318848,enterprise software,1983,INTU,Intuit
+Q2743863,N/A,1995,ISRG,Intuitive Surgical
+Q3116111,beverage industry,2018,KDP,Keurig Dr Pepper
+Q624649,electronics,1997,KLAC,KLA Corporation
+Q19681433,food industry,2015,KHC,Kraft Heinz
+Q1342041,N/A,1980,LRCX,Lam Research
+Q682759,chemical industry,N/A,LIN,Linde plc
+Q6702957,retail,1998,LULU,Lululemon
+Q1141173,hospitality industry,1993,MAR,Marriott International
+Q1347782,semiconductor industry,1995,MRVL,Marvell Technology
+Q950419,e-commerce,1997,MELI,Mercado Libre
+Q380,information technology,2004,META,Meta Platforms
+Q1545076,electronics,1989,MCHP,Microchip Technology
+Q1197548,N/A,1978,MU,Micron Technology
+Q2283,software development,1975,MSFT,Microsoft
+Q1192211,analytics,1989,MSTR,MicroStrategy
+Q12857502,food industry,2012,MDLZ,Mondelez International
+Q1945295,beverage industry,1935,MNST,Monster Beverage
+Q116452644,streaming media,1997,NFLX,"Netflix, Inc."
+Q182477,semiconductor industry,1993,NVDA,Nvidia
+Q1155668,electronics,1953,NXPI,NXP Semiconductors
+Q7071951,retail,1957,ORLY,O'Reilly Automotive
+Q7083862,freight transport industry,1934,ODFL,Old Dominion Freight Line
+Q1671509,semiconductor industry,1992,ON,Onsemi
+Q1477661,automotive industry,1905,PCAR,Paccar
+Q2047336,data analytics software industry,2003,PLTR,Palantir Technologies
+Q7128508,computer security,2005,PANW,Palo Alto Networks
+Q946080,N/A,1971,PAYX,Paychex
+Q483959,N/A,1998,PYPL,PayPal
+Q124461238,e-commerce,2018,PDD,PDD Holdings
+Q334800,food industry,1961,PEP,PepsiCo
+Q544847,telecommunications,1985,QCOM,Qualcomm
+Q7308054,pharmaceutical industry,1988,REGN,Regeneron Pharmaceuticals
+Q16932392,conglomerate,1800,ROP,Roper Technologies
+Q3442791,retail,1954,ROST,Ross Stores
+Q7501150,e-commerce,2006,SHOP,Shopify
+N/A,N/A,N/A,SOLS,Solstice Advanced Materials
+Q37158,café,1971,SBUX,Starbucks
+Q2303478,software industry,1986,SNPS,Synopsys
+Q3511885,telecommunications,2001,TMUS,T-Mobile US
+Q94933,video game industry,1993,TTWO,Take-Two Interactive
+Q478214,automotive industry,2003,TSLA,"Tesla, Inc."
+Q193412,electronics,1930,TXN,Texas Instruments
+Q1141267,media industry,2008,TRI,Thomson Reuters
+N/A,N/A,N/A,TTD,Trade Desk (The)
+Q7921370,risk assessment,1971,VRSK,Verisk Analytics
+Q2744099,pharmaceutical industry,1989,VRTX,Vertex Pharmaceuticals
+Q7855897,N/A,N/A,WBD,Warner Bros. Discovery
+Q8034666,software industry,2005,WDAY,"Workday, Inc."
+Q1486956,public utility,1998,XEL,Xcel Energy
+Q8074786,internet security,2008,ZS,Zscaler
