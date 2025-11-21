@@ -1,0 +1,103 @@
+Company,Ticker,Website,Industry,Founding_Year,Wikidata_ID
+Adobe Inc.,ADBE,https://www.adobe.com/,artificial intelligence,1982,Q11463
+Advanced Micro Devices,AMD,https://www.amd.com/,computer industry,1969,Q128896
+Airbnb,ABNB,https://www.airbnb.com/,tourism industry,2008,Q63327
+Alphabet Inc. (Class A),GOOGL,N/A,N/A,N/A,N/A
+Alphabet Inc. (Class C),GOOG,N/A,N/A,N/A,N/A
+Amazon,AMZN,https://www.amazon.com/,retail,1994,Q3884
+American Electric Power,AEP,https://www.aep.com,electricity generation,1906,Q464092
+Amgen,AMGN,http://www.amgen.com/,pharmaceutical industry,1980,Q470517
+Analog Devices,ADI,https://www.analog.com/,N/A,1965,Q484930
+Apple Inc.,AAPL,https://apple.com,electronics,1976,Q312
+Applied Materials,AMAT,https://www.appliedmaterials.com/,N/A,1967,Q621610
+AppLovin,APP,https://www.applovin.com/,software industry,2012,Q27150212
+Arm Holdings,ARM,https://www.arm.com/,N/A,1990,Q296782
+ASML Holding,ASML,https://www.asml.com/,semiconductor industry,1984,Q297879
+AstraZeneca,AZN,http://www.astrazeneca.com/,pharmaceutical industry,1913,Q731938
+Atlassian,TEAM,https://www.atlassian.com/,software industry,2002,Q757307
+Autodesk,ADSK,https://www.autodesk.com/,software development,1982,Q628051
+Automatic Data Processing,ADP,http://www.adp.com/,human resource management,1949,Q489080
+Axon Enterprise,AXON,https://www.axon.com/,weapons industry,1993,Q690604
+Baker Hughes,BKR,https://www.bakerhughes.com/,petroleum industry,1987,Q804353
+Biogen,BIIB,https://www.biogen.com/,pharmaceutical industry,1978,Q864338
+Booking Holdings,BKNG,https://bookingholdings.com/,travel industry,1997,Q18674747
+Broadcom,AVGO,https://www.broadcom.com/,semiconductor industry,1991,Q555925
+Cadence Design Systems,CDNS,https://www.cadence.com/,software industry,1988,Q608776
+CDW Corporation,CDW,http://www.cdw.com/,business-to-business,1984,Q1023155
+Charter Communications,CHTR,N/A,N/A,N/A,Q16910938
+Cintas,CTAS,N/A,N/A,N/A,Q36951779
+Cisco,CSCO,https://www.cisco.com/,telecommunications,1984,Q173395
+Coca-Cola Europacific Partners,CCEP,https://www.cocacolaep.com/,beverage industry,2015,Q20811256
+Cognizant,CTSH,https://www.cognizant.com,IT service management,1994,Q1107035
+Comcast,CMCSA,http://corporate.comcast.com,telecommunications,1963,Q1113804
+Constellation Energy,CEG,https://www.constellation.com/,N/A,1999,Q259195
+Copart,CPRT,https://www.copart.com/,automotive industry,1982,Q16951448
+CoStar Group,CSGP,https://www.costargroup.com/,information technology,1987,Q16988748
+Costco,COST,https://www.costco.com/,retail,1983,Q715583
+CrowdStrike,CRWD,https://www.crowdstrike.com/,computer security,2011,Q24890758
+CSX Corporation,CSX,https://www.csx.com/,rail transport,1980,Q1024454
+Datadog,DDOG,https://www.datadoghq.com/,IT performance management,2010,Q16248637
+DexCom,DXCM,http://dexcom.com/,N/A,1999,Q15109865
+Diamondback Energy,FANG,https://www.diamondbackenergy.com,petroleum industry,2007,Q65091423
+DoorDash,DASH,https://www.doordash.com/,logistics,2012,Q20714323
+Electronic Arts,EA,https://www.ea.com,video game industry,1982,Q173941
+Exelon,EXC,https://www.exeloncorp.com/,energy industry,2000,Q1383669
+Fastenal,FAST,https://www.fastenal.com/,N/A,1967,Q3067119
+Fortinet,FTNT,http://www.fortinet.com/,computer security,2000,Q2749364
+GE HealthCare,GEHC,http://www.gehealthcare.com,electronics,2004,Q1152374
+Gilead Sciences,GILD,https://www.gilead.com/,pharmaceutical industry,1987,Q663596
+GlobalFoundries,GFS,https://gf.com/,semiconductor industry,2008,Q691592
+Honeywell,HON,N/A,N/A,N/A,Q37147733
+Idexx Laboratories,IDXX,http://www.idexx.com,health care,1983,Q1758392
+Intel,INTC,https://www.intel.com,electrical industry,1968,Q248
+Intuit,INTU,https://www.intuit.com/,enterprise software,1983,Q1318848
+Intuitive Surgical,ISRG,https://www.intuitive.com,N/A,1995,Q2743863
+Keurig Dr Pepper,KDP,https://www.drpeppersnapplegroup.com,beverage industry,2018,Q3116111
+KLA Corporation,KLAC,https://www.kla.com/,electronics,1997,Q624649
+Kraft Heinz,KHC,http://www.kraftheinzcompany.com,food industry,2015,Q19681433
+Lam Research,LRCX,https://www.lamresearch.com/,N/A,1980,Q1342041
+Linde plc,LIN,http://www.linde.com/,chemical industry,N/A,Q682759
+Lululemon,LULU,https://shop.lululemon.com/,retail,1998,Q6702957
+Marriott International,MAR,https://www.marriott.com.cn/,hospitality industry,1993,Q1141173
+Marvell Technology,MRVL,https://www.marvell.com/,semiconductor industry,1995,Q1347782
+Mercado Libre,MELI,https://www.mercadolibre.com/,e-commerce,1997,Q950419
+Meta Platforms,META,https://www.meta.com/,information technology,2004,Q380
+Microchip Technology,MCHP,https://www.microchip.com/,electronics,1989,Q1545076
+Micron Technology,MU,https://www.micron.com/,N/A,1978,Q1197548
+Microsoft,MSFT,https://www.microsoft.com/,software development,1975,Q2283
+MicroStrategy,MSTR,https://www.microstrategy.com/,analytics,1989,Q1192211
+Mondelez International,MDLZ,https://www.mondelezinternational.com/,food industry,2012,Q12857502
+Monster Beverage,MNST,http://www.monsterbevcorp.com/,beverage industry,1935,Q1945295
+"Netflix, Inc.",NFLX,https://ir.netflix.net/,streaming media,1997,Q116452644
+Nvidia,NVDA,https://www.nvidia.com/,semiconductor industry,1993,Q182477
+NXP Semiconductors,NXPI,http://www.ru.nxp.com/,electronics,1953,Q1155668
+O'Reilly Automotive,ORLY,http://www.oreillyauto.com/,retail,1957,Q7071951
+Old Dominion Freight Line,ODFL,http://www.odfl.com/,freight transport industry,1934,Q7083862
+Onsemi,ON,https://www.onsemi.com/,semiconductor industry,1992,Q1671509
+Paccar,PCAR,http://www.paccar.com/,automotive industry,1905,Q1477661
+Palantir Technologies,PLTR,https://www.palantir.com/,data analytics software industry,2003,Q2047336
+Palo Alto Networks,PANW,https://www.paloaltonetworks.com,computer security,2005,Q7128508
+Paychex,PAYX,http://www.paychex.com/,N/A,1971,Q946080
+PayPal,PYPL,https://www.paypal.com/,N/A,1998,Q483959
+PDD Holdings,PDD,https://www.pddholdings.com/,e-commerce,2018,Q124461238
+PepsiCo,PEP,https://pepsico.com,food industry,1961,Q334800
+Qualcomm,QCOM,https://www.qualcomm.com/,telecommunications,1985,Q544847
+Regeneron Pharmaceuticals,REGN,https://www.regeneron.com/,pharmaceutical industry,1988,Q7308054
+Roper Technologies,ROP,http://www.roperind.com/,conglomerate,1800,Q16932392
+Ross Stores,ROST,https://www.rossstores.com/,retail,1954,Q3442791
+Shopify,SHOP,https://www.shopify.com/,e-commerce,2006,Q7501150
+Solstice Advanced Materials,SOLS,N/A,N/A,N/A,N/A
+Starbucks,SBUX,https://www.starbucks.com/,café,1971,Q37158
+Synopsys,SNPS,https://www.synopsys.com/,software industry,1986,Q2303478
+T-Mobile US,TMUS,https://www.t-mobile.com/,telecommunications,2001,Q3511885
+Take-Two Interactive,TTWO,http://www.take2games.com,video game industry,1993,Q94933
+"Tesla, Inc.",TSLA,https://www.tesla.com/,automotive industry,2003,Q478214
+Texas Instruments,TXN,https://www.ti.com/,electronics,1930,Q193412
+Thomson Reuters,TRI,https://www.thomsonreuters.com/en.html,media industry,2008,Q1141267
+Trade Desk (The),TTD,N/A,N/A,N/A,N/A
+Verisk Analytics,VRSK,http://www.verisk.com/,risk assessment,1971,Q7921370
+Vertex Pharmaceuticals,VRTX,https://www.vrtx.com/,pharmaceutical industry,1989,Q2744099
+Warner Bros. Discovery,WBD,http://www.wbd.com,N/A,N/A,Q7855897
+"Workday, Inc.",WDAY,https://www.workday.com/,software industry,2005,Q8034666
+Xcel Energy,XEL,https://my.xcelenergy.com/,public utility,1998,Q1486956
+Zscaler,ZS,https://www.zscaler.com/,internet security,2008,Q8074786

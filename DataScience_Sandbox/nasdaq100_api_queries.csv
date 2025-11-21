@@ -1,0 +1,103 @@
+Company,Query_Ticker,Query_Domain
+Adobe Inc.,ADBE,adobe.com
+Advanced Micro Devices,AMD,amd.com
+Airbnb,ABNB,airbnb.com
+Alphabet Inc. (Class A),GOOGL,GOOGL
+Alphabet Inc. (Class C),GOOG,GOOG
+Amazon,AMZN,amazon.com
+American Electric Power,AEP,aep.com
+Amgen,AMGN,amgen.com
+Analog Devices,ADI,analog.com
+Apple Inc.,AAPL,apple.com
+Applied Materials,AMAT,appliedmaterials.com
+AppLovin,APP,applovin.com
+Arm Holdings,ARM,arm.com
+ASML Holding,ASML,asml.com
+AstraZeneca,AZN,astrazeneca.com
+Atlassian,TEAM,atlassian.com
+Autodesk,ADSK,autodesk.com
+Automatic Data Processing,ADP,adp.com
+Axon Enterprise,AXON,axon.com
+Baker Hughes,BKR,bakerhughes.com
+Biogen,BIIB,biogen.com
+Booking Holdings,BKNG,bookingholdings.com
+Broadcom,AVGO,broadcom.com
+Cadence Design Systems,CDNS,cadence.com
+CDW Corporation,CDW,cdw.com
+Charter Communications,CHTR,CHTR
+Cintas,CTAS,CTAS
+Cisco,CSCO,cisco.com
+Coca-Cola Europacific Partners,CCEP,cocacolaep.com
+Cognizant,CTSH,cognizant.com
+Comcast,CMCSA,corporate.comcast.com
+Constellation Energy,CEG,constellation.com
+Copart,CPRT,copart.com
+CoStar Group,CSGP,costargroup.com
+Costco,COST,costco.com
+CrowdStrike,CRWD,crowdstrike.com
+CSX Corporation,CSX,csx.com
+Datadog,DDOG,datadoghq.com
+DexCom,DXCM,dexcom.com
+Diamondback Energy,FANG,diamondbackenergy.com
+DoorDash,DASH,doordash.com
+Electronic Arts,EA,ea.com
+Exelon,EXC,exeloncorp.com
+Fastenal,FAST,fastenal.com
+Fortinet,FTNT,fortinet.com
+GE HealthCare,GEHC,gehealthcare.com
+Gilead Sciences,GILD,gilead.com
+GlobalFoundries,GFS,gf.com
+Honeywell,HON,HON
+Idexx Laboratories,IDXX,idexx.com
+Intel,INTC,intel.com
+Intuit,INTU,intuit.com
+Intuitive Surgical,ISRG,intuitive.com
+Keurig Dr Pepper,KDP,drpeppersnapplegroup.com
+KLA Corporation,KLAC,kla.com
+Kraft Heinz,KHC,kraftheinzcompany.com
+Lam Research,LRCX,lamresearch.com
+Linde plc,LIN,linde.com
+Lululemon,LULU,shop.lululemon.com
+Marriott International,MAR,marriott.com.cn
+Marvell Technology,MRVL,marvell.com
+Mercado Libre,MELI,mercadolibre.com
+Meta Platforms,META,meta.com
+Microchip Technology,MCHP,microchip.com
+Micron Technology,MU,micron.com
+Microsoft,MSFT,microsoft.com
+MicroStrategy,MSTR,microstrategy.com
+Mondelez International,MDLZ,mondelezinternational.com
+Monster Beverage,MNST,monsterbevcorp.com
+"Netflix, Inc.",NFLX,ir.netflix.net
+Nvidia,NVDA,nvidia.com
+NXP Semiconductors,NXPI,ru.nxp.com
+O'Reilly Automotive,ORLY,oreillyauto.com
+Old Dominion Freight Line,ODFL,odfl.com
+Onsemi,ON,onsemi.com
+Paccar,PCAR,paccar.com
+Palantir Technologies,PLTR,palantir.com
+Palo Alto Networks,PANW,paloaltonetworks.com
+Paychex,PAYX,paychex.com
+PayPal,PYPL,paypal.com
+PDD Holdings,PDD,pddholdings.com
+PepsiCo,PEP,pepsico.com
+Qualcomm,QCOM,qualcomm.com
+Regeneron Pharmaceuticals,REGN,regeneron.com
+Roper Technologies,ROP,roperind.com
+Ross Stores,ROST,rossstores.com
+Shopify,SHOP,shopify.com
+Solstice Advanced Materials,SOLS,SOLS
+Starbucks,SBUX,starbucks.com
+Synopsys,SNPS,synopsys.com
+T-Mobile US,TMUS,t-mobile.com
+Take-Two Interactive,TTWO,take2games.com
+"Tesla, Inc.",TSLA,tesla.com
+Texas Instruments,TXN,ti.com
+Thomson Reuters,TRI,thomsonreuters.com
+Trade Desk (The),TTD,TTD
+Verisk Analytics,VRSK,verisk.com
+Vertex Pharmaceuticals,VRTX,vrtx.com
+Warner Bros. Discovery,WBD,wbd.com
+"Workday, Inc.",WDAY,workday.com
+Xcel Energy,XEL,my.xcelenergy.com
+Zscaler,ZS,zscaler.com
